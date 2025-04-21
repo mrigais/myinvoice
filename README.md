@@ -31,7 +31,7 @@ Installation
     bash
     Copy
     Edit
-    git clone https://github.com/your-username/invoice-management-app.git
+    git clone https://github.com/mrigais/myinvoice.git
     cd invoice-management-app
     npm install
     npm start
